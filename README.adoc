@@ -2,4 +2,4 @@
 Malte Dehling <mdehling@gmail.com>
 
 Hi!  I am Malte Dehling -- math PhD, ML/AI enthusiast, retro tech lover, and runaholic.
-For more about me, visit my homepage at https://mdehling.com/[mdehling.com].
+For more about me or my projects, visit my homepage at https://mdehling.com/[mdehling.com].
